@@ -3,6 +3,7 @@ Welcome to my GitHub! My name is Ryan and I'm just your average programmer.
 
 #### A bit about me
 - 🔭 I’m currently working on [ok](https://github.com/ErrorNoInternet/ok) and [codestats-cli](https://github.com/ErrorNoInternet/codestats-cli)
+- 🤝 I’m looking forward to competing with you on the [ok leaderboards](https://github.com/ErrorNoInternet/ok)
 - ⭐ I'm a big fan of [Python](https://python.org), [Go](https://golang.org), and zsh
 - 😄 Pronouns: [he/him](https://pronoun.is/he)
 
