@@ -7,7 +7,7 @@ Welcome to my GitHub! My name is Ryan and I'm just your average programmer.
 - ⭐ I'm a big fan of [Python](https://python.org), [Go](https://golang.org), and lofi music
 - 😄 Pronouns: [he/him](https://pronoun.is/he)
 
----------------
+--------------
 
 ![ErrorNoInternet's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=ErrorNoInternet&show_icons=true&title_color=bbbbbb&icon_color=bbbbbb&text_color=bbbbbb&bg_color=333333&include_all_commits=true)
 
