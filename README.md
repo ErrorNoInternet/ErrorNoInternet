@@ -9,6 +9,6 @@ Welcome to my GitHub! My name is Ryan and I'm just your average programmer.
 
 --------------
 
-![ErrorNoInternet's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=ErrorNoInternet&show_icons=true&title_color=bbbbbb&icon_color=bbbbbb&text_color=bbbbbb&bg_color=333333&include_all_commits=true)
+![ErrorNoInternet's GitHub Profile](https://github-readme-stats.vercel.app/api?username=ErrorNoInternet&show_icons=true&title_color=bbbbbb&icon_color=bbbbbb&text_color=bbbbbb&bg_color=333333&include_all_commits=true)
 
 ![ErrorNoInternet's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErrorNoInternet&hide=makefile&title_color=bbbbbb&icon_color=bbbbbb&text_color=bbbbbb&bg_color=333333&layout=compact)
