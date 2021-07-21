@@ -2,7 +2,7 @@
 Welcome to my GitHub! My name is Ryan and I'm just your average programmer.
 
 #### A bit about me
-- 🔭 I'm currently working on [ok](https://github.com/ErrorNoInternet/ok), [lofi-player](https://github.com/ErrorNoInternet/lofi-player), and [snowball-ai](https://github.com/ErrorNoInternet/snowball-ai)
+- 💻 I'm currently working on [ok](https://github.com/ErrorNoInternet/ok), [lofi-player](https://github.com/ErrorNoInternet/lofi-player), and [snowball-ai](https://github.com/ErrorNoInternet/snowball-ai)
 - 🤝 I'm looking to compete with you on the [ok leaderboards](https://github.com/ErrorNoInternet/ok)
 - ⭐ I'm a big fan of [Python](https://python.org), [Go](https://golang.org), and lofi music ([lofi player](https://github.com/ErrorNoInternet/lofi-player))
 
