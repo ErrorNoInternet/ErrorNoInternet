@@ -1,6 +1,8 @@
 ### Hello there 👋
 Welcome to my GitHub! My name is Ryan and I'm just your average programmer.
 
+![Zenderking#1337](https://discord.c99.nl/widget/theme-4/531392146767347712.png)
+
 #### A bit about me
 - 💻 I'm currently working on [ok](https://github.com/ErrorNoInternet/ok), [doge-utilities](https://github.com/ErrorNoInternet/Doge-Utilities), and [converterbot](https://github.com/ErrorNoInternet/ConverterBot)
 - 🤝 I'm looking to compete with you on the [ok leaderboards](https://github.com/ErrorNoInternet/ok)
