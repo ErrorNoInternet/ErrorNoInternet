@@ -9,8 +9,9 @@ Welcome to my GitHub! My name is Ryan and I'm just your average programmer.
 - ⭐ I'm a big fan of [Python](https://python.org), [Go](https://golang.org), and lofi music ([my lofi player](https://github.com/ErrorNoInternet/lofi-player))
 
 #### Cryptocurrencies
-- 💰 Bitcoin: `bc1qer5es59d62pvwdhaplgyltzd63kyyd0je2fhjm`
 - 🐶 Dogecoin: `D5Gy8ADPTbzGLD3qvpv4ZkNNrPMNkYX49j`
+- 💰 Bitcoin: `bc1qer5es59d62pvwdhaplgyltzd63kyyd0je2fhjm`
+- 🪶 Litecoin: `LLE9WPg6dTjNjDtdxx2HiyMDMqYRd4j5HZ`
 
 ![ErrorNoInternet's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErrorNoInternet&hide=makefile&title_color=bbbbbb&icon_color=bbbbbb&text_color=bbbbbb&bg_color=333333&layout=compact)
 
