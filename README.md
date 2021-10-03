@@ -13,7 +13,7 @@ Welcome to my GitHub! My name is Ryan and I'm just your average programmer.
 - 💰 Bitcoin: `bc1qer5es59d62pvwdhaplgyltzd63kyyd0je2fhjm`
 - 🪶 Litecoin: `LLE9WPg6dTjNjDtdxx2HiyMDMqYRd4j5HZ`
 
-![ErrorNoInternet's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErrorNoInternet&hide=makefile&title_color=bbbbbb&icon_color=bbbbbb&text_color=bbbbbb&bg_color=333333&layout=compact)
+![ErrorNoInternet's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErrorNoInternet&hide=makefile,css&title_color=bbbbbb&icon_color=bbbbbb&text_color=bbbbbb&bg_color=333333&layout=compact)
 
 ---
 
