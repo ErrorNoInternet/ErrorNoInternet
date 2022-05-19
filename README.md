@@ -1,6 +1,7 @@
 ### Hello there 👋
 Welcome to my GitHub! My name is Ryan and I'm just your average programmer.
 
+Chat with me on Discord!\
 ![Zenderking#1337](https://discord.c99.nl/widget/theme-4/531392146767347712.png)
 
 #### A bit about me
