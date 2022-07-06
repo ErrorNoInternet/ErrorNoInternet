@@ -5,12 +5,13 @@ Chat with me on Discord!\
 ![Zenderking#1337](https://discord.c99.nl/widget/theme-4/531392146767347712.png)
 
 #### A bit about me
-- 💻 I'm currently working on [ok](https://github.com/ErrorNoInternet/ok), [doge-utilities](https://github.com/ErrorNoInternet/Doge-Utilities), and [converterbot](https://github.com/ErrorNoInternet/ConverterBot)
+- 💻 I'm currently working on [Paralload](https://github.com/ErrorNoInternet/Paralload), [OpenHeimer](https://github.com/ErrorNoInternet/OpenHeimer), and [Doge-Utilities](https://github.com/ErrorNoInternet/Doge-Utilities)
 - 🤝 I'm looking to compete with you on the [ok leaderboards](https://github.com/ErrorNoInternet/ok)
 - ⭐ I'm a big fan of [Go](https://go.dev), [Python](https://python.org), and [Dogecoin](https://dogecoin.com) (to the moon!)
 
 #### Cryptocurrencies
 - 🐶 Dogecoin: `DEerNph3oTdXDC8AjVzQSaWiLPAxenQW7t`
+- 🪙 Monero: `8AU8YmGm5Qp1GtWHygAZhZC5CCNuzKQVyR4m8R9yTbeaJxVo2qvseHFTp7YrwfXZ57XKGgCP6iYfc6HLGbmTfxk487tij6R`
 
 ![ErrorNoInternet's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErrorNoInternet&hide=makefile,css&title_color=bbbbbb&icon_color=bbbbbb&text_color=bbbbbb&bg_color=333333&layout=compact)
 
