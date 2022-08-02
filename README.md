@@ -5,7 +5,7 @@ Chat with me on Discord!\
 ![Zenderking#1337](https://discord.c99.nl/widget/theme-4/531392146767347712.png)
 
 #### A bit about me
-- 💻 I'm currently working on [Paralload](https://github.com/ErrorNoInternet/Paralload), [OpenHeimer](https://github.com/ErrorNoInternet/OpenHeimer), and [Doge-Utilities](https://github.com/ErrorNoInternet/Doge-Utilities)
+- 💻 I'm currently working on [termcanvas](https://github.com/ErrorNoInternet/termcanvas), [Paralload](https://github.com/ErrorNoInternet/Paralload), and DisGame
 - 🤝 I'm looking to compete with you on the [ok leaderboards](https://github.com/ErrorNoInternet/ok)
 - ⭐ I'm a big fan of [Go](https://go.dev), [Python](https://python.org), and [Dogecoin](https://dogecoin.com) (to the moon!)
 
