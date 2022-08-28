@@ -13,7 +13,6 @@ Chat with me on Discord!\
 - 🐶 Dogecoin: `DEerNph3oTdXDC8AjVzQSaWiLPAxenQW7t`
 - 🪙 Monero: `8AU8YmGm5Qp1GtWHygAZhZC5CCNuzKQVyR4m8R9yTbeaJxVo2qvseHFTp7YrwfXZ57XKGgCP6iYfc6HLGbmTfxk487tij6R`
 
-<br>
 <p align="center">
   <h4 align="center">Some statistics 📈<h4>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErrorNoInternet&hide=makefile,css&title_color=bbbbbb&icon_color=bbbbbb&text_color=bbbbbb&bg_color=1d2127&layout=compact">
