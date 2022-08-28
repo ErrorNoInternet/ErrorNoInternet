@@ -5,13 +5,13 @@ Chat with me on Discord!\
 ![Zenderking#1337](https://discord.c99.nl/widget/theme-4/531392146767347712.png)
 
 #### A bit about me
-- 💻 I'm currently working on [termcanvas](https://github.com/ErrorNoInternet/termcanvas), [Paralload](https://github.com/ErrorNoInternet/Paralload), and DisGame
+- 💻 I'm currently working on [termcanvas](https://github.com/ErrorNoInternet/termcanvas), [RustChat](https://github.com/ErrorNoInternet/RustChat), and DisGame
 - 🤝 I'm looking to compete with you on the [ok leaderboards](https://github.com/ErrorNoInternet/ok)
 - ⭐ I'm a big fan of [Rust](https://rust-lang.org), [Go](https://go.dev), and [Dogecoin](https://dogecoin.com) (to the moon!)
 
 #### Cryptocurrencies
 - 🐶 Dogecoin: `DEerNph3oTdXDC8AjVzQSaWiLPAxenQW7t`
-- 🪙 Monero: `8AU8YmGm5Qp1GtWHygAZhZC5CCNuzKQVyR4m8R9yTbeaJxVo2qvseHFTp7YrwfXZ57XKGgCP6iYfc6HLGbmTfxk487tij6R`
+- 💰 Monero: `8AU8YmGm5Qp1GtWHygAZhZC5CCNuzKQVyR4m8R9yTbeaJxVo2qvseHFTp7YrwfXZ57XKGgCP6iYfc6HLGbmTfxk487tij6R`
 
 <p align="center">
   <h4 align="center">Some statistics 📈<h4>
