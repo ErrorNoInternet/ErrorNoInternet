@@ -7,7 +7,7 @@ Chat with me on Discord!\
 #### A bit about me
 - 💻 I'm currently working on [termcanvas](https://github.com/ErrorNoInternet/termcanvas), [Paralload](https://github.com/ErrorNoInternet/Paralload), and DisGame
 - 🤝 I'm looking to compete with you on the [ok leaderboards](https://github.com/ErrorNoInternet/ok)
-- ⭐ I'm a big fan of [Go](https://go.dev), [Python](https://python.org), and [Dogecoin](https://dogecoin.com) (to the moon!)
+- ⭐ I'm a big fan of [Rust](https://rust-lang.org), [Go](https://go.dev), and [Dogecoin](https://dogecoin.com) (to the moon!)
 
 #### Cryptocurrencies
 - 🐶 Dogecoin: `DEerNph3oTdXDC8AjVzQSaWiLPAxenQW7t`
