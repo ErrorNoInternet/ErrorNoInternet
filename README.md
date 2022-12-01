@@ -5,8 +5,8 @@ Chat with me on Discord!\
 ![Zenderking#1337](https://discord.c99.nl/widget/theme-4/531392146767347712.png)
 
 #### A bit about me
-- 💻 I'm currently working on [termcanvas](https://github.com/ErrorNoInternet/termcanvas), [sfs](https://github.com/ErrorNoInternet/sfs), and DisGame
-- 🤝 I'm looking to compete with you on the [ok leaderboards](https://github.com/ErrorNoInternet/ok)
+- 💻 I'm currently working on [sfs](https://github.com/ErrorNoInternet/sfs), [termcanvas](https://github.com/ErrorNoInternet/termcanvas), and DisGame
+- 🤝 I'm looking to compete with you on [Code::Stats](https://codestats.net/users/ErrorNoInternet)
 - ⭐ I'm a big fan of [Rust](https://rust-lang.org), [Go](https://go.dev), and [Dogecoin](https://dogecoin.com) (to the moon!)
 
 #### Cryptocurrencies
