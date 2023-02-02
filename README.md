@@ -6,7 +6,7 @@ Chat with me on Discord!\
 Or add me on Matrix: `@zenderking:envs.net`
 
 #### A bit about me
-- 💻 I'm currently working on [sfs](https://github.com/ErrorNoInternet/sfs), [termcanvas](https://github.com/ErrorNoInternet/termcanvas), and DisGame
+- 💻 I'm currently working on [sfs](https://github.com/ErrorNoInternet/sfs), [ErrorNoWatcher](https://github.com/ErrorNoInternet/ErrorNoWatcher), and DisGame
 - 🤝 I'm looking to compete with you on [Code::Stats](https://codestats.net/users/ErrorNoInternet)
 - ⭐ I'm a big fan of [Rust](https://rust-lang.org), [Go](https://go.dev), and [Dogecoin](https://dogecoin.com) (to the moon!)
 
