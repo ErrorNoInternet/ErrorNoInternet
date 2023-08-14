@@ -3,7 +3,7 @@ Welcome to my GitHub! My name is Ryan and I'm just your average programmer.
 
 Chat with me on Discord!\
 ![Zenderking#6343](https://discord.c99.nl/widget/theme-4/531392146767347712.png)\
-Or add me on Matrix: `@zenderking:envs.net`
+Or add me on Matrix: `@errornointernet:envs.net`
 
 #### A bit about me
 - 💻 I'm currently working on [sfs](https://github.com/ErrorNoInternet/sfs), [ErrorNoWatcher](https://github.com/ErrorNoInternet/ErrorNoWatcher), and DisGame
