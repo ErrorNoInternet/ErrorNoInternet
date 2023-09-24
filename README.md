@@ -2,22 +2,22 @@
 Welcome to my GitHub! My name is Ryan and I'm just your average programmer.
 
 Chat with me on Discord!\
-![Zenderking#6343](https://discord.c99.nl/widget/theme-4/531392146767347712.png)\
+![@errornointernet](https://discord.c99.nl/widget/theme-4/531392146767347712.png)\
 Or add me on Matrix: `@errornointernet:envs.net`
 
 #### A bit about me
-- 💻 I'm currently working on [sfs](https://github.com/ErrorNoInternet/sfs), [ErrorNoWatcher](https://github.com/ErrorNoInternet/ErrorNoWatcher), and DisGame
-- 🤝 I'm looking to compete with you on [Code::Stats](https://codestats.net/users/ErrorNoInternet)
-- ⭐ I'm a big fan of [Rust](https://rust-lang.org), [Go](https://go.dev), and [Dogecoin](https://dogecoin.com) (to the moon!)
+- 💻 I'm currently working on [openheimer](https://github.com/ErrorNoInternet/openheimer) and [my NixOS configuration](https://github.com/ErrorNoInternet/NixOS)
+- ⭐ I'm a big fan of [Rust](https://rust-lang.org), [Nix](https://nixos.org), and [Dogecoin](https://dogecoin.com) (to the moon!)
 
-#### Cryptocurrencies
+#### Donations
 - 🐶 Dogecoin: `DEerNph3oTdXDC8AjVzQSaWiLPAxenQW7t`
 - 💰 Monero: `8AU8YmGm5Qp1GtWHygAZhZC5CCNuzKQVyR4m8R9yTbeaJxVo2qvseHFTp7YrwfXZ57XKGgCP6iYfc6HLGbmTfxk487tij6R`
 
 <h4 align="center">Some statistics 📈</h4>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErrorNoInternet&hide=makefile,css&title_color=bbbbbb&icon_color=bbbbbb&text_color=bbbbbb&bg_color=1d2127&layout=compact">
-  <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ErrorNoInternet&show_icons=true&title_color=bbbbbb&icon_color=bbbbbb&text_color=bbbbbb&bg_color=1d2127&include_all_commits=true&hide_border=true">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ErrorNoInternet&background=1d2127&sideLabels=ADADAD&dates=ADADAD&currStreakNum=D8D8D8&sideNums=D8D8D8&fire=DD6A00&ring=DD6A00&currStreakLabel=DD6A00&hide_border=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ErrorNoInternet&custom_title=ErrorNoInternet's%20GitHub%20Statistics&show_icons=true&theme=nord&include_all_commits=true&hide_border=true&card_width=600">
+  <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErrorNoInternet&langs_count=10&hide=Procfile&theme=nord&layout=compact&hide_border=true&card_width=600">
+  <br>
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ErrorNoInternet&theme=nord&hide_border=true&card_width=600">
 </p>
