@@ -5,7 +5,7 @@ Just your average programmer.
 - 💻 I'm currently working on [my NixOS configuration](https://github.com/ErrorNoInternet/configuration.nix)
 - 👯 I’m looking to collaborate on [ipv6-placer](https://github.com/ErrorNoInternet/ipv6-placer) and [openheimer](https://github.com/ErrorNoInternet/openheimer)
 - ⭐ I'm a big fan of [Rust](https://rust-lang.org), [Nix](https://nixos.org) and [Dogecoin](https://dogecoin.com) (to the moon!)
-- 💬 Ask me anything about **Rust**, **Python** and **NixOS**
+- 💬 Ask me anything about **Rust**, **Python**, **Go**, **BTRFS** and **NixOS**
 - 📫 Reach me with
   - Matrix: **@errornointernet:envs.net**
   - Discord: **@errornointernet**
