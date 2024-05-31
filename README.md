@@ -13,7 +13,7 @@ Just your average programmer.
 - 💰 Monero: `8AU8YmGm5Qp1GtWHygAZhZC5CCNuzKQVyR4m8R9yTbeaJxVo2qvseHFTp7YrwfXZ57XKGgCP6iYfc6HLGbmTfxk487tij6R`
 
 #### GPG keys
-- `F815744C5BF5F8DF7F047C472486BFB7B1E6A4A3` (expires 2024-07-19)
+- `F815744C5BF5F8DF7F047C472486BFB7B1E6A4A3` (expires 2026-04-17)
 
 #### Some statistics 📈
 <img src="https://github-readme-stats.vercel.app/api?username=ErrorNoInternet&custom_title=ErrorNoInternet's%20GitHub%20Statistics&show_icons=true&theme=nord&include_all_commits=true&hide_border=true&card_width=600">
