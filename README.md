@@ -2,7 +2,7 @@
 Just your average programmer.
 
 #### A bit about me
-- ⭐ I'm a big fan of Rust, Python, Go, C, ARM assembly, Nix, filesystems and kernels.
+- ⭐ I'm a big fan of Rust, Python, Go, C, ARM assembly, Nix, filesystems, kernels and low level stuff in general.
 - 📫 Reach me with
   - Matrix: **@errornointernet:envs.net**
   - Discord: **@errornointernet**
