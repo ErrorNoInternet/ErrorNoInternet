@@ -2,7 +2,7 @@ body {
     background-color: #2e3440;
     flex-direction: column;
     color: #e5e9f0;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: "Courier New", Courier, monospace;
 }
 
 .title {
