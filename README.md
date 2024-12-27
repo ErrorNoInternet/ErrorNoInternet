@@ -7,8 +7,9 @@ Just your average programmer.
 -   ⭐ I'm a big fan of Rust, Python, Go, C, assembly, Nix, filesystems, kernels and low level stuff in general.
 -   📫 Reach me with
     -   Matrix: **@errornointernet:envs.net**
-    -   Discord: **@errornointernet**
+    -   IRC: **ErrorNoInternet**
     -   Email: **errornointernet@envs.net**
+    -   Discord: **@errornointernet**
 
 #### Donations
 
