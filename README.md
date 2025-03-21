@@ -8,7 +8,7 @@ Just your average programmer.
 -   📫 Reach me with
     -   Matrix: **@errornointernet:envs.net**
     -   IRC: **ErrorNoInternet**
-    -   Email: **errornointernet@envs.net**
+    -   Email: **errornointernet** 在 **envs.net**
     -   Discord: **@errornointernet**
 
 #### Donations
