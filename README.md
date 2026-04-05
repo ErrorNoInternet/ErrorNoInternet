@@ -4,7 +4,7 @@ Just your average programmer.
 
 #### A bit about me
 
--   ⭐ I'm a big fan of Rust, Python, Go, C, assembly, Nix, filesystems, kernels and low level stuff in general.
+-   ⭐ I'm a big fan of Rust, Zig, Python, Go, C, Nix, aarch64 assembly, filesystems, kernels, and low level stuff in general.
 -   📫 Reach me with
     -   Matrix: **@errornointernet:envs.net**
     -   IRC: **ErrorNoInternet**
@@ -18,7 +18,7 @@ Just your average programmer.
 
 #### GPG keys
 
--   `F815744C5BF5F8DF7F047C472486BFB7B1E6A4A3` (expires 2026-04-17)
+-   `F815744C5BF5F8DF7F047C472486BFB7B1E6A4A3` (expires 2027-10-01)
 
 #### Some statistics 📈
 
