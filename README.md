@@ -13,6 +13,7 @@ Just your average programmer.
 
 #### Donations
 
+-   ☕ Ko-fi: https://ko-fi.com/errornointernet
 -   🐶 Dogecoin: `DEerNph3oTdXDC8AjVzQSaWiLPAxenQW7t`
 -   💰 Monero: `8AU8YmGm5Qp1GtWHygAZhZC5CCNuzKQVyR4m8R9yTbeaJxVo2qvseHFTp7YrwfXZ57XKGgCP6iYfc6HLGbmTfxk487tij6R`
 
