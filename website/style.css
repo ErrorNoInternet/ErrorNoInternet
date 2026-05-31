@@ -1,40 +1,48 @@
 body {
-    background-color: #2e3440;
-    flex-direction: column;
-    color: #e5e9f0;
-    font-family: "Courier New", Courier, monospace;
+  background-color: #2e3440;
+  color: #e5e9f0;
+  flex-direction: column;
+  font-family: "Courier New", Courier, monospace;
 }
 
 .title {
-    align-items: center;
-    display: flex;
-    height: 100%;
-    justify-content: center;
-    overflow: hidden;
+  align-items: center;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  overflow: hidden;
 }
 
 .inline {
-    display: inline-block;
+  display: inline-block;
 }
 
 .page-title {
-    margin-top: 0px;
-    margin-right: 20px;
-    margin-bottom: 0px;
+  margin-bottom: 0px;
+  margin-right: 20px;
+  margin-top: 0px;
+}
+
+.donation {
+  display: inline-block;
+  margin-top: 0px;
+  max-width: 500px;
+  vertical-align: top;
+  word-wrap: break-word;
 }
 
 hr {
-    color: #d8dee9;
+  color: #d8dee9;
 }
 
 h1 {
-    font-size: 36px;
+  font-size: 36px;
 }
 
 p {
-    max-width: 750px;
+  max-width: 750px;
 }
 
 a {
-    color: #e5e9f0;
+  color: #e5e9f0;
 }
